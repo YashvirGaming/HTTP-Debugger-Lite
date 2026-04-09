@@ -6,7 +6,12 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YashvirGaming">GitHub</a>
+  <a href="https://github.com/YashvirGaming">
+    <img src="https://img.shields.io/badge/GitHub-YashvirGaming-0a0a0a?style=for-the-badge&logo=github">
+  </a>
+  <img src="https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Built%20With-Python-yellow?style=for-the-badge">
+  <img src="https://img.shields.io/badge/License-Free-green?style=for-the-badge">
 </p>
 
 <hr>
@@ -68,23 +73,29 @@
 
 <hr>
 
-<h2>Tech Stack</h2>
+## ⚠️ IMPORTANT (READ BEFORE USING)
 
-<ul>
-  <li>Python 3.10+</li>
-  <li>PySide6</li>
-  <li>Qt WebEngine</li>
-  <li>mitmproxy</li>
-  <li>PyInstaller</li>
-  <li>Inno Setup</li>
-</ul>
+> **⚠️ THIS APPLICATION MUST BE RUN AS ADMINISTRATOR ⚠️**
+
+- Required for HTTPS interception  
+- Required for certificate installation  
+- Required for system proxy control  
+
+👉 Without admin rights:
+- HTTPS traffic ❌ will NOT work  
+- Certificate installation ❌ will fail  
+- Debugger will be limited  
 
 <hr>
 
 <h2>Screenshots</h2>
 
 <p>
+  <img width="1024" height="1536" alt="main-ui" src="https://github.com/user-attachments/assets/1c5a6149-d217-4d71-a042-db884ffced83" />
   
+  <img width="1588" height="1127" alt="request-response" src="https://github.com/user-attachments/assets/6cbea48d-5bf6-4a2c-a0bb-2af24152ae5c" />
+  
+  <img width="588" height="462" alt="installer" src="https://github.com/user-attachments/assets/317fe2e6-4eb4-4614-954f-ffe3373c64c2" />
 </p>
 
 <pre>
@@ -117,6 +128,8 @@
 </ul>
 
 <hr>
+
+---
 
 <h2>Author</h2>
 
