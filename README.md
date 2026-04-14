@@ -116,7 +116,7 @@ Without admin rights:
 <p>
   <img width="1024" src="https://github.com/user-attachments/assets/1c5a6149-d217-4d71-a042-db884ffced83" />
   <img width="863" height="380" alt="Screenshot 2026-04-14 112154" src="https://github.com/user-attachments/assets/b0dd63dc-e7b1-4afb-aa87-b43fb1384a8c" />
-    <img width="1024" src="https://github.com/user-attachments/assets/6cbea48d-5bf6-4a2c-a0bb-2af24152ae5c" />
+  <img width="1024" src="https://github.com/user-attachments/assets/6cbea48d-5bf6-4a2c-a0bb-2af24152ae5c" />
   <img width="660" height="624" alt="Screenshot 2026-04-14 121807" src="https://github.com/user-attachments/assets/e06a47e3-6662-4861-b914-121a64f8f06e" />
 
 </p>
